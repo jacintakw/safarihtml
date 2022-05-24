@@ -1,0 +1,20 @@
+.fruits{
+    border: 2px dashed rosybrown;
+    text-align: center;
+    padding: 15px;
+    background-color: wheat;
+
+
+}
+.FRUITS{
+        border: 2px solid mediumpurple;
+    text-align: right;
+    padding: 15px;
+    background-color:wheat;
+}
+.cars{
+    border: 2px dotted cadetblue;
+    text-align: left;
+    padding: 30px;
+    background-color: wheat;
+}
